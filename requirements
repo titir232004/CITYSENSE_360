@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+opencv-python
+torch
+torchvision
+transformers
+sentence-transformers
+faiss-cpu
+python-dotenv
+pydantic
