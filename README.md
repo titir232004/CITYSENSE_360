@@ -35,20 +35,20 @@ CitySense360
 ## ⚙️ Features
 
 ✅ **Air Quality Index (AQI) Monitoring**  
-1.Displays current AQI levels for selected cities
-2.Color-coded AQI status (Good, Moderate, Poor, etc.)
+1. Displays current AQI levels for selected cities
+2. Color-coded AQI status (Good, Moderate, Poor, etc.)
 
 ✅ **Next-Day AQI Prediction**
 1. Uses a trained ML model to predict future AQI values
    
 ✅ **Citizen Complaint Analyzer**  
-1.Analyzes and categorizes public complaints
-2.Helps identify major urban issues
+1. Analyzes and categorizes public complaints
+2. Helps identify major urban issues
 
 ✅ **Interactive Streamlit Dashboard**  
-1.User-friendly UI
-2.Dynamic city selection
-3.Visual indicators and metrics
+1. User-friendly UI
+2. Dynamic city selection
+3. Visual indicators and metrics
 
 ✅ **Dockerized Deployment** 
 1. Fully containerized for consistent execution
