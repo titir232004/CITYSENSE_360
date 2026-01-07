@@ -50,9 +50,9 @@ CitySense360
 2.Dynamic city selection
 3.Visual indicators and metrics
 
-✅ **Dockerized Deployment**  
-1.Fully containerized for consistent execution
-2.Runs seamlessly across systems
+✅ **Dockerized Deployment** 
+1. Fully containerized for consistent execution
+2. Runs seamlessly across systems
 ---
 
 ## 🧩 Tech Stack
