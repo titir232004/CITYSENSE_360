@@ -77,8 +77,10 @@ pip install -r requirements.txt
 3️⃣ Run the Application Locally
 streamlit run app/streamlit_app.py
 Open in browser: http://localhost:8501
+```
 
 ### 🐳 Run Using Docker
+```
 1️⃣ Build Docker Image
 docker build -t citysense360 .
 
